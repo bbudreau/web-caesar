@@ -36,10 +36,6 @@ form = """
             </form>
         </body>
     </html>"""
-
-
-
-
  
 @app.route("/")
 def index():
